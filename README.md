@@ -5,7 +5,7 @@ background-attachment: fixed;
 background-size: 100% 100%; } </style> 
 
 <style1>
-Body1{
+body1{
 Color: white; 
 }
 </style1>
