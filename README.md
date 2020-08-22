@@ -4,11 +4,11 @@ background-repeat: no-repeat;
 background-attachment: fixed; 
 background-size: 100% 100%; } </style> 
 
-<style1>
+<style>
 body1 {
-color: white; 
+color: white ; 
 }
-</style1>
+</style>
 <body1>
 <h1 style="background-color:rgba(0, 0, 0, 0.2);">
 Photos will be uploaded after the COVID-19 
