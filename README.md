@@ -6,7 +6,7 @@ background-size: 100% 100%; } </style>
 
 <style1>
 Body1{
-Color: white;
+Color: white; }
 </style1>
 <body1>
 <h1 style="background-color:rgba(0, 0, 0, 0.2);">
