@@ -5,8 +5,8 @@ background-attachment: fixed;
 background-size: 100% 100%; } </style> 
 
 <style1>
-body1{
-Color: white; 
+body1 {
+color: white; 
 }
 </style1>
 <body1>
