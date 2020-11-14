@@ -1,4 +1,4 @@
-{% extends 'layout.html' %}
+{%'layout.html' %}
 
 {% block body %}
 <div class="jumbotron">
