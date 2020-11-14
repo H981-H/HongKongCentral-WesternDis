@@ -8,9 +8,9 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     </head>
     <body style="background-image: url({{ url_for('static', filename='image/bgone.jpg') }})">
-        {% include 'includes/_navbar.html' %}
+        {% include '_navbar.html' %}
         <div class="container">
-            {% include 'includes/_flashmsg.html' %}
+            {% include '_flashmsg.html' %}
             {% block body %}  {% endblock %}
         </div>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js"></script>
