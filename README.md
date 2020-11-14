@@ -15,3 +15,7 @@ Photos will be uploaded after COVID-19
 照片將在COVID-19之後上傳
 </h1>
 </body1>
+
+<textarea name="message" rows="10" cols="30">
+The cat was playing in the garden.
+</textarea>
