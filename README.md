@@ -1,5 +1,3 @@
-# HongKongPhoto
-
 {% extends 'layout.html' %}
 
 {% block body %}
