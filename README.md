@@ -1,4 +1,4 @@
-{%'layout.html' %}
+
 
 {% block body %}
 <div class="jumbotron">
